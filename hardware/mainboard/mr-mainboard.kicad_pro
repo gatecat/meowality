@@ -311,6 +311,10 @@
     [
       "fab76c53-3adb-4867-b007-ffb14aef2f22",
       "Connectors"
+    ],
+    [
+      "e9aec539-e564-4d98-99cc-e508169d8927",
+      "DRAM"
     ]
   ],
   "text_variables": {}
