@@ -290,11 +290,15 @@
     ],
     [
       "7dd540ee-d364-4396-a5ce-94105f298dc9",
-      "FPGA Power"
+      "FPGA_Pwr"
     ],
     [
       "926b833a-4cee-458d-ad7a-784832562e66",
       "Cam_Disp"
+    ],
+    [
+      "23c4d1b8-430f-47fa-afd5-87283c046e16",
+      "FPGA_IO"
     ]
   ],
   "text_variables": {}
