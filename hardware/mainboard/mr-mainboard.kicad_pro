@@ -283,6 +283,19 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "312401a7-37cf-4f63-8988-86b7edc5bd11",
+      ""
+    ],
+    [
+      "7dd540ee-d364-4396-a5ce-94105f298dc9",
+      "FPGA Power"
+    ],
+    [
+      "926b833a-4cee-458d-ad7a-784832562e66",
+      "Cam_Disp"
+    ]
+  ],
   "text_variables": {}
 }
