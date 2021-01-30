@@ -3146,7 +3146,7 @@
   (symbol (lib_id "meowality:LIFCL_40_CABGA400") (at 67.31 43.18 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid bf230b88-9b1e-4601-81c0-955d04e8b6b0)
-    (property "Reference" "U?" (id 0) (at 233.0451 148.5062 0)
+    (property "Reference" "U?" (id 0) (at 68.58 41.91 0)
       (effects (font (size 1.524 1.524)) (justify left))
     )
     (property "Value" "LIFCL_40_CABGA400" (id 1) (at 233.0451 151.2138 0)

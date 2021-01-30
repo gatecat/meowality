@@ -285,7 +285,7 @@
   },
   "sheets": [
     [
-      "312401a7-37cf-4f63-8988-86b7edc5bd11",
+      "7dd540ee-d364-4396-a5ce-94105f298dc9",
       ""
     ],
     [
@@ -299,6 +299,18 @@
     [
       "23c4d1b8-430f-47fa-afd5-87283c046e16",
       "FPGA_IO"
+    ],
+    [
+      "9e3a6680-f984-4a6b-96cf-6310a6decc58",
+      "Power"
+    ],
+    [
+      "cd489746-2b75-406b-b5a6-2e5fabc38094",
+      "Misc"
+    ],
+    [
+      "fab76c53-3adb-4867-b007-ffb14aef2f22",
+      "Connectors"
     ]
   ],
   "text_variables": {}
