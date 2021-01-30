@@ -620,6 +620,9 @@
     (path "/cd489746-2b75-406b-b5a6-2e5fabc38094/5dbc3eef-3740-4d78-a6ae-9ea49afdc819"
       (reference "U?") (unit 1) (value "ICM-20948") (footprint "Sensor_Motion:InvenSense_QFN-24_3x3mm_P0.4mm")
     )
+    (path "/fab76c53-3adb-4867-b007-ffb14aef2f22/0663d281-91fa-43df-9602-ae473f37a904"
+      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+    )
     (path "/fab76c53-3adb-4867-b007-ffb14aef2f22/12d59f33-40c3-4199-91f6-c27321eb2bc6"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -635,8 +638,17 @@
     (path "/fab76c53-3adb-4867-b007-ffb14aef2f22/34c562ce-3009-4d08-8728-9732ec923462"
       (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
     )
+    (path "/fab76c53-3adb-4867-b007-ffb14aef2f22/4546a714-efe1-4371-936e-84e0905b1e3d"
+      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/fab76c53-3adb-4867-b007-ffb14aef2f22/6ce90cef-aaef-4e34-994c-626266b74870"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/fab76c53-3adb-4867-b007-ffb14aef2f22/c59f32bf-6d4d-4030-b105-247ad4d3663d"
       (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/fab76c53-3adb-4867-b007-ffb14aef2f22/d7f94289-2b62-41a6-b9d4-a4ee43cda8b0"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/fab76c53-3adb-4867-b007-ffb14aef2f22/fb78a631-587f-4f3e-9751-ef22ab4e77ba"
       (reference "#PWR?") (unit 1) (value "+1V8") (footprint "")
@@ -670,6 +682,12 @@
     )
     (path "/fab76c53-3adb-4867-b007-ffb14aef2f22/ec4b3461-7cf8-4d2b-a94a-0fd6973ff978"
       (reference "FB?") (unit 1) (value "120") (footprint "")
+    )
+    (path "/fab76c53-3adb-4867-b007-ffb14aef2f22/012e594c-e269-4287-83c6-fc6356e16339"
+      (reference "J?") (unit 1) (value "Conn_01x40_Shielded") (footprint "")
+    )
+    (path "/fab76c53-3adb-4867-b007-ffb14aef2f22/d2d777e0-6ae0-4db4-9e24-28df3a2f4c01"
+      (reference "J?") (unit 1) (value "Conn_01x40_Shielded") (footprint "")
     )
     (path "/fab76c53-3adb-4867-b007-ffb14aef2f22/eb2bf414-9073-43a9-bb91-950c9adf6376"
       (reference "P?") (unit 1) (value "M2_SOCKET_E") (footprint "")
