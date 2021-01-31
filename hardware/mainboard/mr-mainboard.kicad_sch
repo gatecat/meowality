@@ -160,7 +160,7 @@
       (reference "C14") (unit 1) (value "10µ") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/7dd540ee-d364-4396-a5ce-94105f298dc9/bf230b88-9b1e-4601-81c0-955d04e8b6b0"
-      (reference "U1") (unit 1) (value "LIFCL_40_CABGA400") (footprint "")
+      (reference "U1") (unit 1) (value "LIFCL_40_CABGA400") (footprint "meowality:BGA-400_20x20_17.0x17.0mm")
     )
     (path "/926b833a-4cee-458d-ad7a-784832562e66/165f593e-4fb4-4fd0-bacc-9ab8114f58df"
       (reference "#PWR06") (unit 1) (value "GND") (footprint "")
@@ -224,6 +224,9 @@
     )
     (path "/926b833a-4cee-458d-ad7a-784832562e66/9ccb0fa3-c7a0-4454-b653-db954bc4075e"
       (reference "#PWR026") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/926b833a-4cee-458d-ad7a-784832562e66/56e6a6f7-7393-44b5-b0aa-85a708d7d8c3"
+      (reference "#PWR0113") (unit 1) (value "GND") (footprint "")
     )
     (path "/926b833a-4cee-458d-ad7a-784832562e66/810b99de-9176-4b9b-bbdb-5c73c878a312"
       (reference "C15") (unit 1) (value "10µ") (footprint "Capacitor_SMD:C_0805_2012Metric")
@@ -295,7 +298,7 @@
       (reference "C37") (unit 1) (value "10µ") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/926b833a-4cee-458d-ad7a-784832562e66/a7df2093-c05d-4486-b6cf-32a6732f6d15"
-      (reference "CAM1") (unit 1) (value "PI_CAM_22P") (footprint "")
+      (reference "CAM1") (unit 1) (value "PI_CAM_22P") (footprint "meowality:54548-2271")
     )
     (path "/926b833a-4cee-458d-ad7a-784832562e66/e7e60a78-9715-4e8f-af98-7d5a385330c9"
       (reference "FB1") (unit 1) (value "120") (footprint "Inductor_SMD:L_0603_1608Metric")
@@ -316,16 +319,16 @@
       (reference "FB6") (unit 1) (value "120") (footprint "Inductor_SMD:L_0603_1608Metric")
     )
     (path "/926b833a-4cee-458d-ad7a-784832562e66/628e1f2e-e728-4b94-a06d-f821ab2239b4"
-      (reference "L1") (unit 1) (value "10µ") (footprint "")
+      (reference "L1") (unit 1) (value "XFL3012-103MEB") (footprint "meowality:XFL3012")
     )
     (path "/926b833a-4cee-458d-ad7a-784832562e66/944a0e26-a44b-4044-80a6-eecd2151e9b4"
-      (reference "L2") (unit 1) (value "4.7µ") (footprint "")
+      (reference "L2") (unit 1) (value "XFL4020-472MEB") (footprint "Inductor_SMD:L_Coilcraft_XxL4020")
     )
     (path "/926b833a-4cee-458d-ad7a-784832562e66/944a37d9-9a37-4ce9-a3a2-0e27fa4c39c8"
-      (reference "L3") (unit 1) (value "4.7µ") (footprint "")
+      (reference "L3") (unit 1) (value "XFL4020-472MEB") (footprint "Inductor_SMD:L_Coilcraft_XxL4020")
     )
     (path "/926b833a-4cee-458d-ad7a-784832562e66/a68c3a36-b5ef-4271-bb93-f73149d814f3"
-      (reference "LCD\n1") (unit 1) (value "H381Dxx0y.z") (footprint "")
+      (reference "LCD\n1") (unit 1) (value "H381Dxx0y.z") (footprint "meowality:FH35C-39S-0.3SHW")
     )
     (path "/926b833a-4cee-458d-ad7a-784832562e66/9c9aa57c-02cf-4263-bdf0-ade98c57bfae"
       (reference "R1") (unit 1) (value "0") (footprint "Resistor_SMD:R_0402_1005Metric")
@@ -334,13 +337,13 @@
       (reference "R2") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/926b833a-4cee-458d-ad7a-784832562e66/1a907fae-5feb-4191-b0de-ceb02a634998"
-      (reference "TP1") (unit 1) (value "TestPoint") (footprint "")
+      (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D2.0mm")
     )
     (path "/926b833a-4cee-458d-ad7a-784832562e66/d7453cb9-bb19-4703-bed8-1213536c492e"
-      (reference "U1") (unit 10) (value "LIFCL_40_CABGA400") (footprint "")
+      (reference "U1") (unit 10) (value "LIFCL_40_CABGA400") (footprint "meowality:BGA-400_20x20_17.0x17.0mm")
     )
     (path "/926b833a-4cee-458d-ad7a-784832562e66/0e76b071-eaf8-414a-991f-6256981223fe"
-      (reference "U1") (unit 11) (value "LIFCL_40_CABGA400") (footprint "")
+      (reference "U1") (unit 11) (value "LIFCL_40_CABGA400") (footprint "meowality:BGA-400_20x20_17.0x17.0mm")
     )
     (path "/926b833a-4cee-458d-ad7a-784832562e66/54c2c456-3b4e-41b9-84e8-c167dd6904c9"
       (reference "U2") (unit 1) (value "TPS65632R") (footprint "Package_DFN_QFN:QFN-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm")
@@ -478,28 +481,28 @@
       (reference "R7") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/23c4d1b8-430f-47fa-afd5-87283c046e16/00219b54-2431-44ec-a9cc-39dd12d81bb6"
-      (reference "U1") (unit 2) (value "LIFCL_40_CABGA400") (footprint "")
+      (reference "U1") (unit 2) (value "LIFCL_40_CABGA400") (footprint "meowality:BGA-400_20x20_17.0x17.0mm")
     )
     (path "/23c4d1b8-430f-47fa-afd5-87283c046e16/67def79e-148a-4ea5-b8e0-6dfa0f8a859d"
-      (reference "U1") (unit 3) (value "LIFCL_40_CABGA400") (footprint "")
+      (reference "U1") (unit 3) (value "LIFCL_40_CABGA400") (footprint "meowality:BGA-400_20x20_17.0x17.0mm")
     )
     (path "/23c4d1b8-430f-47fa-afd5-87283c046e16/34e49a0a-8dc3-4df6-aa2b-a1506f842e3e"
-      (reference "U1") (unit 4) (value "LIFCL_40_CABGA400") (footprint "")
+      (reference "U1") (unit 4) (value "LIFCL_40_CABGA400") (footprint "meowality:BGA-400_20x20_17.0x17.0mm")
     )
     (path "/23c4d1b8-430f-47fa-afd5-87283c046e16/f349093c-f8a5-465c-84d5-df4ae82a9e47"
-      (reference "U1") (unit 5) (value "LIFCL_40_CABGA400") (footprint "")
+      (reference "U1") (unit 5) (value "LIFCL_40_CABGA400") (footprint "meowality:BGA-400_20x20_17.0x17.0mm")
     )
     (path "/23c4d1b8-430f-47fa-afd5-87283c046e16/977f388a-cf05-4c10-a247-0edd4e0bc24a"
-      (reference "U1") (unit 6) (value "LIFCL_40_CABGA400") (footprint "")
+      (reference "U1") (unit 6) (value "LIFCL_40_CABGA400") (footprint "meowality:BGA-400_20x20_17.0x17.0mm")
     )
     (path "/23c4d1b8-430f-47fa-afd5-87283c046e16/c69fdcc2-44fe-44c3-92b6-205eaec4bee3"
-      (reference "U1") (unit 7) (value "LIFCL_40_CABGA400") (footprint "")
+      (reference "U1") (unit 7) (value "LIFCL_40_CABGA400") (footprint "meowality:BGA-400_20x20_17.0x17.0mm")
     )
     (path "/23c4d1b8-430f-47fa-afd5-87283c046e16/dac3958b-4dab-4dc1-97c5-4c7f0e9e54b9"
-      (reference "U1") (unit 8) (value "LIFCL_40_CABGA400") (footprint "")
+      (reference "U1") (unit 8) (value "LIFCL_40_CABGA400") (footprint "meowality:BGA-400_20x20_17.0x17.0mm")
     )
     (path "/23c4d1b8-430f-47fa-afd5-87283c046e16/d012b94c-d7e6-4da0-bfb9-f1988389810d"
-      (reference "U1") (unit 9) (value "LIFCL_40_CABGA400") (footprint "")
+      (reference "U1") (unit 9) (value "LIFCL_40_CABGA400") (footprint "meowality:BGA-400_20x20_17.0x17.0mm")
     )
     (path "/23c4d1b8-430f-47fa-afd5-87283c046e16/6cf510ef-0558-4acb-9430-62008bd76441"
       (reference "X1") (unit 1) (value "XO32") (footprint "Oscillator:Oscillator_SMD_EuroQuartz_XO32-4Pin_3.2x2.5mm")
@@ -613,13 +616,13 @@
       (reference "C66") (unit 1) (value "10µ") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/9e3a6680-f984-4a6b-96cf-6310a6decc58/709f0a4d-3153-46fc-94fb-7cc12f74bc97"
-      (reference "L4") (unit 1) (value "470n") (footprint "")
+      (reference "L4") (unit 1) (value "XFL4015-471MEB") (footprint "Inductor_SMD:L_Coilcraft_XxL4020")
     )
     (path "/9e3a6680-f984-4a6b-96cf-6310a6decc58/b4b04095-8cc7-40fe-a8a2-9b3e19599d29"
-      (reference "L5") (unit 1) (value "470n") (footprint "")
+      (reference "L5") (unit 1) (value "XFL4015-471MEB") (footprint "Inductor_SMD:L_Coilcraft_XxL4020")
     )
     (path "/9e3a6680-f984-4a6b-96cf-6310a6decc58/30f26f93-e078-4223-ab7e-c10c75bfedd4"
-      (reference "L6") (unit 1) (value "470n") (footprint "")
+      (reference "L6") (unit 1) (value "XFL4015-471MEB") (footprint "Inductor_SMD:L_Coilcraft_XxL4020")
     )
     (path "/9e3a6680-f984-4a6b-96cf-6310a6decc58/7cfb69e4-8b1d-422d-9090-d344ebc45828"
       (reference "R8") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
@@ -649,13 +652,13 @@
       (reference "R16") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/9e3a6680-f984-4a6b-96cf-6310a6decc58/d3a09f08-66a0-4d4c-8f31-b8f3da6ea9fc"
-      (reference "U4") (unit 1) (value "TPS62822") (footprint "")
+      (reference "U4") (unit 1) (value "TPS62822") (footprint "meowality:TI_VSON-HR_1.5x2mm_p0.5mm")
     )
     (path "/9e3a6680-f984-4a6b-96cf-6310a6decc58/e5319fd0-7456-4527-923d-9212910e1646"
-      (reference "U5") (unit 1) (value "TPS62822") (footprint "")
+      (reference "U5") (unit 1) (value "TPS62822") (footprint "meowality:TI_VSON-HR_1.5x2mm_p0.5mm")
     )
     (path "/9e3a6680-f984-4a6b-96cf-6310a6decc58/69c1ed4c-1b83-4b91-b64d-684e610e02ad"
-      (reference "U6") (unit 1) (value "TPS62822") (footprint "")
+      (reference "U6") (unit 1) (value "TPS62822") (footprint "meowality:TI_VSON-HR_1.5x2mm_p0.5mm")
     )
     (path "/cd489746-2b75-406b-b5a6-2e5fabc38094/4190521e-1bc1-491e-8d27-38665191760c"
       (reference "#PWR069") (unit 1) (value "GND") (footprint "")
@@ -886,19 +889,19 @@
       (reference "FB10") (unit 1) (value "120") (footprint "Inductor_SMD:L_0603_1608Metric")
     )
     (path "/fab76c53-3adb-4867-b007-ffb14aef2f22/012e594c-e269-4287-83c6-fc6356e16339"
-      (reference "J1") (unit 1) (value "Conn_01x40_Shielded") (footprint "")
+      (reference "J1") (unit 1) (value "Conn_01x40_Shielded") (footprint "meowality:TE_FPC_40pin_p0.5mm_4-1734839-0")
     )
     (path "/fab76c53-3adb-4867-b007-ffb14aef2f22/d2d777e0-6ae0-4db4-9e24-28df3a2f4c01"
-      (reference "J2") (unit 1) (value "Conn_01x40_Shielded") (footprint "")
+      (reference "J2") (unit 1) (value "Conn_01x40_Shielded") (footprint "meowality:TE_FPC_40pin_p0.5mm_4-1734839-0")
     )
     (path "/fab76c53-3adb-4867-b007-ffb14aef2f22/1f28fc80-5e32-4c90-8262-fb490a2e71b9"
-      (reference "J3") (unit 1) (value "EAR") (footprint "")
+      (reference "J3") (unit 1) (value "EAR") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Horizontal")
     )
     (path "/fab76c53-3adb-4867-b007-ffb14aef2f22/03adfbf0-11f4-4773-98d0-8b49bcac8472"
-      (reference "J4") (unit 1) (value "Conn_02x06_Top_Bottom") (footprint "")
+      (reference "J4") (unit 1) (value "Conn_02x06_Top_Bottom") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Horizontal")
     )
     (path "/fab76c53-3adb-4867-b007-ffb14aef2f22/eb2bf414-9073-43a9-bb91-950c9adf6376"
-      (reference "P1") (unit 1) (value "M2_SOCKET_E") (footprint "")
+      (reference "P1") (unit 1) (value "M2_SOCKET_E") (footprint "meowality:2199230-4")
     )
     (path "/fab76c53-3adb-4867-b007-ffb14aef2f22/ca114296-b7a0-4fa1-8531-3573b24cb144"
       (reference "R24") (unit 1) (value "1.15k") (footprint "Resistor_SMD:R_0402_1005Metric")
@@ -928,7 +931,7 @@
       (reference "SW3") (unit 1) (value "SW_Push") (footprint "Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx31-2LFS")
     )
     (path "/fab76c53-3adb-4867-b007-ffb14aef2f22/5ef466bb-b771-4c4a-8164-fe0f34a373fa"
-      (reference "U1") (unit 13) (value "LIFCL_40_CABGA400") (footprint "")
+      (reference "U1") (unit 13) (value "LIFCL_40_CABGA400") (footprint "meowality:BGA-400_20x20_17.0x17.0mm")
     )
     (path "/fab76c53-3adb-4867-b007-ffb14aef2f22/307dd7f0-40c8-4a72-983d-0f940e1ab755"
       (reference "U9") (unit 1) (value "74AHC1G126") (footprint "Package_TO_SOT_SMD:SOT-23-5")

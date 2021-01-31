@@ -3152,7 +3152,7 @@
     (property "Value" "LIFCL_40_CABGA400" (id 1) (at 233.0451 151.2138 0)
       (effects (font (size 1.524 1.524)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 71.12 41.91 0)
+    (property "Footprint" "meowality:BGA-400_20x20_17.0x17.0mm" (id 2) (at 71.12 41.91 0)
       (effects (font (size 1.524 1.524)) (justify right) hide)
     )
     (property "Datasheet" "" (id 3) (at 71.12 46.99 0)
