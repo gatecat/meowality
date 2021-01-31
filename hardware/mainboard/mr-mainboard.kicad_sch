@@ -328,7 +328,7 @@
       (reference "L3") (unit 1) (value "XFL4020-472MEB") (footprint "Inductor_SMD:L_Coilcraft_XxL4020")
     )
     (path "/926b833a-4cee-458d-ad7a-784832562e66/a68c3a36-b5ef-4271-bb93-f73149d814f3"
-      (reference "LCD\n1") (unit 1) (value "H381Dxx0y.z") (footprint "meowality:FH35C-39S-0.3SHW")
+      (reference "LCD1") (unit 1) (value "H381Dxx0y.z") (footprint "meowality:FH35C-39S-0.3SHW")
     )
     (path "/926b833a-4cee-458d-ad7a-784832562e66/9c9aa57c-02cf-4263-bdf0-ade98c57bfae"
       (reference "R1") (unit 1) (value "0") (footprint "Resistor_SMD:R_0402_1005Metric")
@@ -753,6 +753,9 @@
     (path "/cd489746-2b75-406b-b5a6-2e5fabc38094/04e8a089-c320-4613-818a-e8219d9fe5a1"
       (reference "R23") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
+    (path "/cd489746-2b75-406b-b5a6-2e5fabc38094/c9d05d08-b167-4485-ba31-7214409a3f7b"
+      (reference "R33") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
     (path "/cd489746-2b75-406b-b5a6-2e5fabc38094/34bf6739-7961-4ff4-9bbf-acd4af94e7a1"
       (reference "U7") (unit 1) (value "W25Q128JVS") (footprint "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm")
     )
@@ -937,10 +940,10 @@
       (reference "U9") (unit 1) (value "74AHC1G126") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
     (path "/fab76c53-3adb-4867-b007-ffb14aef2f22/146eb340-7fa2-41b6-8ff7-a8d119c18cd6"
-      (reference "U10") (unit 1) (value "Si52112-B") (footprint "")
+      (reference "U10") (unit 1) (value "Si52112-B") (footprint "meowality:TDFN10_3x3mm_p0.5mm")
     )
     (path "/fab76c53-3adb-4867-b007-ffb14aef2f22/2e2d1e92-831f-44d3-a0ba-664a81916c0e"
-      (reference "Y1") (unit 1) (value "25MHz") (footprint "")
+      (reference "Y1") (unit 1) (value "25MHz") (footprint "Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm")
     )
     (path "/e9aec539-e564-4d98-99cc-e508169d8927/0a8691b3-2724-43bd-a1af-6259664a8814"
       (reference "#PWR0108") (unit 1) (value "GND") (footprint "")
