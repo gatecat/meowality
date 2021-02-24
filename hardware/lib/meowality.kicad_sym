@@ -3551,7 +3551,7 @@
       )
       (pin input line (at -15.24 0 0) (length 5.08)
         (name "MODE" (effects (font (size 1.27 1.27))))
-        (number "1" (effects (font (size 1.27 1.27))))
+        (number "10" (effects (font (size 1.27 1.27))))
       )
       (pin no_connect line (at -15.24 -2.54 0) (length 5.08)
         (name "NC" (effects (font (size 1.27 1.27))))

@@ -2757,7 +2757,7 @@
         )
         (pin input line (at -15.24 0 0) (length 5.08)
           (name "MODE" (effects (font (size 1.27 1.27))))
-          (number "1" (effects (font (size 1.27 1.27))))
+          (number "10" (effects (font (size 1.27 1.27))))
         )
         (pin no_connect line (at -15.24 -2.54 0) (length 5.08)
           (name "NC" (effects (font (size 1.27 1.27))))
@@ -10016,7 +10016,7 @@
     (uuid b6581bf3-66aa-460d-9329-57bba0dead5f)
     (property "Reference" "U2" (id 0) (at 73.66 22.5863 0))
     (property "Value" "TPS56637" (id 1) (at 73.66 24.885 0))
-    (property "Footprint" "" (id 2) (at 73.66 34.29 0)
+    (property "Footprint" "meowality:VQFN10-HR" (id 2) (at 73.66 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 73.66 34.29 0)
@@ -10024,7 +10024,7 @@
     )
     (pin "8" (uuid 57ee1b7c-2406-4059-8a33-ed82db567674))
     (pin "1" (uuid 91871516-18e2-4b1d-ab53-47c79e4a2bf1))
-    (pin "1" (uuid 91871516-18e2-4b1d-ab53-47c79e4a2bf1))
+    (pin "10" (uuid 0614af16-5218-47d3-a921-ad60e847e058))
     (pin "5" (uuid 4786abc8-da00-492e-927d-9a1a089601a0))
     (pin "9" (uuid 927ebd38-9c52-4fde-97ab-035c900d7b66))
     (pin "6" (uuid fda41aac-aacb-460d-8393-8d9464aa2265))
@@ -10125,7 +10125,7 @@
     (uuid bf767ab0-d986-441b-9076-8f9d5f44d287)
     (property "Reference" "MOD1" (id 0) (at 193.675 152.1263 0))
     (property "Value" "RTL8189ES_MOD" (id 1) (at 205.105 176.015 0))
-    (property "Footprint" "" (id 2) (at 205.74 163.83 0)
+    (property "Footprint" "meowality:RTL8189ES_MOD" (id 2) (at 205.74 163.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 205.74 163.83 0)
@@ -10312,7 +10312,7 @@
     (uuid 86a39066-7989-449a-90f9-ad2b9221de0b)
     (property "Reference" "U10" (id 0) (at 320.04 42.9063 0))
     (property "Value" "F1C200S" (id 1) (at 320.04 45.205 0))
-    (property "Footprint" "" (id 2) (at 320.04 245.11 0)
+    (property "Footprint" "meowality:QFN-88_EP_10x10_Pitch0.4mm" (id 2) (at 320.04 245.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 320.04 245.11 0)
@@ -10820,7 +10820,7 @@
       (reference "L4") (unit 1) (value "2.7n") (footprint "Inductor_SMD:L_0402_1005Metric")
     )
     (path "/bf767ab0-d986-441b-9076-8f9d5f44d287"
-      (reference "MOD1") (unit 1) (value "RTL8189ES_MOD") (footprint "")
+      (reference "MOD1") (unit 1) (value "RTL8189ES_MOD") (footprint "meowality:RTL8189ES_MOD")
     )
     (path "/ba7dc5a4-c446-4388-bb83-ffa143516649"
       (reference "Q1") (unit 1) (value "2N7002") (footprint "Package_TO_SOT_SMD:SOT-23")
@@ -10934,7 +10934,7 @@
       (reference "U1") (unit 1) (value "TPS62822") (footprint "meowality:TI_VSON-HR_1.5x2mm_p0.5mm")
     )
     (path "/b6581bf3-66aa-460d-9329-57bba0dead5f"
-      (reference "U2") (unit 1) (value "TPS56637") (footprint "")
+      (reference "U2") (unit 1) (value "TPS56637") (footprint "meowality:VQFN10-HR")
     )
     (path "/53d12aea-c49c-4c1b-b028-be0c53dc30ce"
       (reference "U3") (unit 1) (value "TPD2E2U06") (footprint "Package_TO_SOT_SMD:SOT-543")
@@ -10958,7 +10958,7 @@
       (reference "U9") (unit 1) (value "TPD2E2U06") (footprint "Package_TO_SOT_SMD:SOT-543")
     )
     (path "/86a39066-7989-449a-90f9-ad2b9221de0b"
-      (reference "U10") (unit 1) (value "F1C200S") (footprint "")
+      (reference "U10") (unit 1) (value "F1C200S") (footprint "meowality:QFN-88_EP_10x10_Pitch0.4mm")
     )
     (path "/2e10c69a-17b4-427c-803a-af2b102c7a30"
       (reference "Y1") (unit 1) (value "24MHz") (footprint "Oscillator:Oscillator_SMD_EuroQuartz_XO32-4Pin_3.2x2.5mm")
