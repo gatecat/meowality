@@ -367,9 +367,9 @@
       {
         "bus_width": 6.0,
         "clearance": 0.15,
-        "diff_pair_gap": 0.25,
+        "diff_pair_gap": 0.15,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
+        "diff_pair_width": 0.15,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
@@ -406,6 +406,7 @@
       "default_text_size": 50.0,
       "default_wire_thickness": 6.0,
       "field_names": [],
+      "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
       "intersheets_ref_short": false,
       "intersheets_ref_show": false,
@@ -420,6 +421,12 @@
       "version": 0
     },
     "net_format_name": "",
+    "ngspice": {
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 0
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
@@ -429,7 +436,7 @@
   },
   "sheets": [
     [
-      "6804d48e-0a1b-4094-9c99-bfb468fca49a",
+      "23ce1f8f-853b-46c4-980e-de1a31d99031",
       ""
     ]
   ],
