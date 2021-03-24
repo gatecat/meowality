@@ -695,15 +695,6 @@
         )
         (polyline
           (pts
-            (xy 1.016 0)
-            (xy 2.032 0.381)
-            (xy 2.032 -0.381)
-            (xy 1.016 0)
-          )
-          (stroke (width 0)) (fill (type outline))
-        )
-        (polyline
-          (pts
             (xy 2.794 0.508)
             (xy 2.921 0.381)
             (xy 3.683 0.381)
@@ -719,6 +710,15 @@
             (xy 3.302 0.381)
           )
           (stroke (width 0)) (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 1.016 0)
+            (xy 2.032 0.381)
+            (xy 2.032 -0.381)
+            (xy 1.016 0)
+          )
+          (stroke (width 0)) (fill (type outline))
         )
       )
       (symbol "2N7002_1_1"
@@ -875,6 +875,7 @@
     )
   )
 
+
   (junction (at 52.07 55.88) (diameter 1.016) (color 0 0 0 0))
   (junction (at 72.39 38.1) (diameter 1.016) (color 0 0 0 0))
   (junction (at 72.39 64.77) (diameter 1.016) (color 0 0 0 0))
@@ -882,6 +883,7 @@
   (junction (at 76.2 135.89) (diameter 1.016) (color 0 0 0 0))
   (junction (at 81.28 110.49) (diameter 1.016) (color 0 0 0 0))
   (junction (at 81.28 138.43) (diameter 1.016) (color 0 0 0 0))
+  (junction (at 86.36 113.03) (diameter 1.016) (color 0 0 0 0))
   (junction (at 86.36 140.97) (diameter 1.016) (color 0 0 0 0))
   (junction (at 96.52 107.95) (diameter 1.016) (color 0 0 0 0))
   (junction (at 96.52 135.89) (diameter 1.016) (color 0 0 0 0))
@@ -988,7 +990,7 @@
     (stroke (width 0) (type solid) (color 0 0 0 0))
     (uuid 85d53b73-3b0b-4643-908b-52145c61dbd5)
   )
-  (wire (pts (xy 66.04 113.03) (xy 106.68 113.03))
+  (wire (pts (xy 66.04 113.03) (xy 86.36 113.03))
     (stroke (width 0) (type solid) (color 0 0 0 0))
     (uuid 85d53b73-3b0b-4643-908b-52145c61dbd5)
   )
@@ -1083,6 +1085,14 @@
   (wire (pts (xy 85.09 58.42) (xy 91.44 58.42))
     (stroke (width 0) (type solid) (color 0 0 0 0))
     (uuid 336f7466-43d3-4034-b280-8210f08f283f)
+  )
+  (wire (pts (xy 86.36 105.41) (xy 86.36 113.03))
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+    (uuid 93d2452d-8155-4c52-9499-e861451f3c0a)
+  )
+  (wire (pts (xy 86.36 113.03) (xy 106.68 113.03))
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+    (uuid 85d53b73-3b0b-4643-908b-52145c61dbd5)
   )
   (wire (pts (xy 86.36 133.35) (xy 86.36 140.97))
     (stroke (width 0) (type solid) (color 0 0 0 0))
