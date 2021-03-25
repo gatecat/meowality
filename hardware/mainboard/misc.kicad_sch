@@ -875,7 +875,6 @@
     )
   )
 
-
   (junction (at 52.07 55.88) (diameter 1.016) (color 0 0 0 0))
   (junction (at 72.39 38.1) (diameter 1.016) (color 0 0 0 0))
   (junction (at 72.39 64.77) (diameter 1.016) (color 0 0 0 0))

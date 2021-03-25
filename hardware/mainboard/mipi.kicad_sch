@@ -2573,7 +2573,6 @@
     )
   )
 
-
   (junction (at 55.88 53.34) (diameter 1.016) (color 0 0 0 0))
   (junction (at 55.88 59.69) (diameter 1.016) (color 0 0 0 0))
   (junction (at 55.88 62.23) (diameter 1.016) (color 0 0 0 0))
