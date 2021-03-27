@@ -1116,10 +1116,10 @@
       (reference "R35") (unit 1) (value "0") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/fab76c53-3adb-4867-b007-ffb14aef2f22/273ef2d5-bfca-4d67-ba6c-a8358cd86440"
-      (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx31-2LFS")
+      (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_B3U-3000P")
     )
     (path "/fab76c53-3adb-4867-b007-ffb14aef2f22/7334a4b3-93c3-48c5-b0b3-231670f445fd"
-      (reference "SW2") (unit 1) (value "SW_Push") (footprint "Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx31-2LFS")
+      (reference "SW2") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_B3U-3000P")
     )
     (path "/fab76c53-3adb-4867-b007-ffb14aef2f22/5ef466bb-b771-4c4a-8164-fe0f34a373fa"
       (reference "U1") (unit 13) (value "LIFCL_40_CABGA400") (footprint "meowality:BGA-400_20x20_17.0x17.0mm")

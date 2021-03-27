@@ -10715,7 +10715,7 @@
     (property "Value" "SW_Push" (id 1) (at 114.1731 232.2893 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1000P" (id 2) (at 107.95 231.14 0)
+    (property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-3000P" (id 2) (at 107.95 231.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 107.95 231.14 0)
@@ -12112,7 +12112,7 @@
       (reference "RN4") (unit 1) (value "47k") (footprint "Resistor_SMD:R_Array_Convex_4x0402")
     )
     (path "/72e45b81-c1c3-4f34-bbf4-ae3166fb09d8"
-      (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_B3U-1000P")
+      (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_B3U-3000P")
     )
     (path "/9802de61-b7ba-4ff6-ad97-701b5ee1b3c3"
       (reference "SW2") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_B3U-3000P")
