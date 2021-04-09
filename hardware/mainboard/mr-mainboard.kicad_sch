@@ -992,9 +992,6 @@
     (path "/fab76c53-3adb-4867-b007-ffb14aef2f22/1d9b38ba-77f5-4cd7-97d9-4882a0b75dc9"
       (reference "#PWR095") (unit 1) (value "GND") (footprint "")
     )
-    (path "/fab76c53-3adb-4867-b007-ffb14aef2f22/739b43db-7db9-42b5-a2cc-4c4f973dc0a3"
-      (reference "#PWR096") (unit 1) (value "+3V3") (footprint "")
-    )
     (path "/fab76c53-3adb-4867-b007-ffb14aef2f22/bd16f54f-e127-482a-9f73-ca67ae3b7563"
       (reference "#PWR097") (unit 1) (value "GND") (footprint "")
     )
@@ -1082,8 +1079,8 @@
     (path "/fab76c53-3adb-4867-b007-ffb14aef2f22/d2d777e0-6ae0-4db4-9e24-28df3a2f4c01"
       (reference "J2") (unit 1) (value "Conn_01x40_Shielded") (footprint "meowality:TE_FPC_40pin_p0.5mm_4-1734839-0")
     )
-    (path "/fab76c53-3adb-4867-b007-ffb14aef2f22/1f28fc80-5e32-4c90-8262-fb490a2e71b9"
-      (reference "J3") (unit 1) (value "EAR") (footprint "Connector_PinHeader_2.00mm:PinHeader_2x03_P2.00mm_Horizontal")
+    (path "/fab76c53-3adb-4867-b007-ffb14aef2f22/2aae459d-47b2-4a56-8540-17473341a768"
+      (reference "J3") (unit 1) (value "EAR") (footprint "Connector_JST:JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal")
     )
     (path "/fab76c53-3adb-4867-b007-ffb14aef2f22/03adfbf0-11f4-4773-98d0-8b49bcac8472"
       (reference "J4") (unit 1) (value "Conn_02x06_Top_Bottom") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Horizontal")
