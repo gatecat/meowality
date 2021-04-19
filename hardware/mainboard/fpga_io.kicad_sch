@@ -4580,7 +4580,7 @@
     (property "Reference" "X1" (id 0) (at 48.0061 90.2906 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "XO32" (id 1) (at 48.0061 92.5893 0)
+    (property "Value" "ECS-3225MV-480-CN-TR" (id 1) (at 48.0061 92.5893 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Oscillator:Oscillator_SMD_EuroQuartz_XO32-4Pin_3.2x2.5mm" (id 2) (at 57.15 100.33 0)

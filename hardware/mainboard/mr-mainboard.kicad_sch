@@ -669,7 +669,7 @@
       (reference "U1") (unit 9) (value "LIFCL_40_CABGA400") (footprint "meowality:BGA-400_20x20_17.0x17.0mm")
     )
     (path "/23c4d1b8-430f-47fa-afd5-87283c046e16/6cf510ef-0558-4acb-9430-62008bd76441"
-      (reference "X1") (unit 1) (value "XO32") (footprint "Oscillator:Oscillator_SMD_EuroQuartz_XO32-4Pin_3.2x2.5mm")
+      (reference "X1") (unit 1) (value "ECS-3225MV-480-CN-TR") (footprint "Oscillator:Oscillator_SMD_EuroQuartz_XO32-4Pin_3.2x2.5mm")
     )
     (path "/9e3a6680-f984-4a6b-96cf-6310a6decc58/1d54c770-460a-40f2-a0ed-08fb12e4fa4b"
       (reference "#FLG01") (unit 1) (value "PWR_FLAG") (footprint "")
@@ -861,25 +861,25 @@
       (reference "C70") (unit 1) (value "470n") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/cd489746-2b75-406b-b5a6-2e5fabc38094/ba9c9523-c263-4d23-b37a-6ebd3e624e36"
-      (reference "D1") (unit 1) (value "LED_ABGR") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D1") (unit 1) (value "ASMB-LTB2-0A333") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
     )
     (path "/cd489746-2b75-406b-b5a6-2e5fabc38094/11f6b0c9-f14a-448d-a1b4-2d5fa6def842"
-      (reference "D2") (unit 1) (value "LED_ABGR") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D2") (unit 1) (value "ASMB-LTB2-0A333") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
     )
     (path "/cd489746-2b75-406b-b5a6-2e5fabc38094/bb552069-7e44-426c-a9d4-338673421ba7"
-      (reference "D3") (unit 1) (value "LED_ABGR") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D3") (unit 1) (value "ASMB-LTB2-0A333") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
     )
     (path "/cd489746-2b75-406b-b5a6-2e5fabc38094/a94cf5cf-6487-446b-a74b-0eace8803bbc"
-      (reference "D4") (unit 1) (value "LED_ABGR") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D4") (unit 1) (value "ASMB-LTB2-0A333") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
     )
     (path "/cd489746-2b75-406b-b5a6-2e5fabc38094/9df144f1-02ba-4ef4-8060-bdc21042cfc6"
       (reference "D5") (unit 1) (value "LED_Small") (footprint "LED_SMD:LED_0805_2012Metric")
     )
     (path "/cd489746-2b75-406b-b5a6-2e5fabc38094/8e47a61f-f64b-4d9d-a5f6-6c78e76425fc"
-      (reference "D6") (unit 1) (value "LED_ABGR") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D6") (unit 1) (value "ASMB-LTB2-0A333") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
     )
     (path "/cd489746-2b75-406b-b5a6-2e5fabc38094/5b91f941-4c58-431b-a366-a90f3be6250f"
-      (reference "D7") (unit 1) (value "LED_ABGR") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D7") (unit 1) (value "ASMB-LTB2-0A333") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
     )
     (path "/cd489746-2b75-406b-b5a6-2e5fabc38094/e8c49eac-e5ad-4967-8d96-29edf716b632"
       (reference "D8") (unit 1) (value "LED_Small") (footprint "LED_SMD:LED_0805_2012Metric")
@@ -912,7 +912,7 @@
       (reference "R33") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/cd489746-2b75-406b-b5a6-2e5fabc38094/34bf6739-7961-4ff4-9bbf-acd4af94e7a1"
-      (reference "U7") (unit 1) (value "W25Q128JVS") (footprint "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm")
+      (reference "U7") (unit 1) (value "AT25QF128A-SHB-T") (footprint "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm")
     )
     (path "/cd489746-2b75-406b-b5a6-2e5fabc38094/5dbc3eef-3740-4d78-a6ae-9ea49afdc819"
       (reference "U8") (unit 1) (value "ICM-20948") (footprint "Sensor_Motion:InvenSense_QFN-24_3x3mm_P0.4mm")
@@ -1119,7 +1119,7 @@
       (reference "U10") (unit 1) (value "Si52112-B") (footprint "meowality:TDFN10_3x3mm_p0.5mm")
     )
     (path "/fab76c53-3adb-4867-b007-ffb14aef2f22/2e2d1e92-831f-44d3-a0ba-664a81916c0e"
-      (reference "Y1") (unit 1) (value "25MHz") (footprint "Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm")
+      (reference "Y1") (unit 1) (value "XRCGB25M000F3M00R0") (footprint "Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm")
     )
     (path "/e9aec539-e564-4d98-99cc-e508169d8927/4804767c-c8aa-4833-882f-2e5f2f3d8f27"
       (reference "#FLG0113") (unit 1) (value "PWR_FLAG") (footprint "")

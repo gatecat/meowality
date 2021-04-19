@@ -5988,7 +5988,7 @@
     (in_bom yes) (on_board yes)
     (uuid 2e2d1e92-831f-44d3-a0ba-664a81916c0e)
     (property "Reference" "Y1" (id 0) (at 163.83 51.5428 0))
-    (property "Value" "25MHz" (id 1) (at 163.83 53.841 0))
+    (property "Value" "XRCGB25M000F3M00R0" (id 1) (at 163.83 53.841 0))
     (property "Footprint" "Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm" (id 2) (at 163.83 57.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
