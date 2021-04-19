@@ -771,13 +771,13 @@
       (reference "C95") (unit 1) (value "100p") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/9e3a6680-f984-4a6b-96cf-6310a6decc58/709f0a4d-3153-46fc-94fb-7cc12f74bc97"
-      (reference "L4") (unit 1) (value "XFL4015-222MEC") (footprint "Inductor_SMD:L_Coilcraft_XxL4020")
+      (reference "L4") (unit 1) (value "TYA40202R2M") (footprint "Inductor_SMD:L_Taiyo-Yuden_NR-40xx")
     )
     (path "/9e3a6680-f984-4a6b-96cf-6310a6decc58/b4b04095-8cc7-40fe-a8a2-9b3e19599d29"
-      (reference "L5") (unit 1) (value "XFL4015-222MEC") (footprint "Inductor_SMD:L_Coilcraft_XxL4020")
+      (reference "L5") (unit 1) (value "TYA40202R2M") (footprint "Inductor_SMD:L_Taiyo-Yuden_NR-40xx")
     )
     (path "/9e3a6680-f984-4a6b-96cf-6310a6decc58/30f26f93-e078-4223-ab7e-c10c75bfedd4"
-      (reference "L6") (unit 1) (value "XFL4015-222MEC") (footprint "Inductor_SMD:L_Coilcraft_XxL4020")
+      (reference "L6") (unit 1) (value "TYA40202R2M") (footprint "Inductor_SMD:L_Taiyo-Yuden_NR-40xx")
     )
     (path "/9e3a6680-f984-4a6b-96cf-6310a6decc58/7cfb69e4-8b1d-422d-9090-d344ebc45828"
       (reference "R8") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
