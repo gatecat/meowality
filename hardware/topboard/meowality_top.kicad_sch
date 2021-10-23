@@ -1,5 +1,54 @@
 (kicad_sch (version 20210621) (generator eeschema)
+
+  (uuid 361191eb-59c5-4b6a-bce5-8a19ff3ac03e)
+
   (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 63.5 38.1) (size 38.1 38.1) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 132 0 132 1))
+    (fill (color 255 255 255 0.0000))
+    (uuid d84b180e-cefc-4f1c-881d-20439d41dcc4)
+    (property "Sheet name" "SOM" (id 0) (at 63.5 37.3884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "som.kicad_sch" (id 1) (at 63.5 76.7846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+    (path "/d84b180e-cefc-4f1c-881d-20439d41dcc4" (page "2"))
+  )
+
+  (symbol_instances
+    (path "/d84b180e-cefc-4f1c-881d-20439d41dcc4/b880ead5-464e-4fc7-9427-b18b7631f428"
+      (reference "SOM?") (unit 1) (value "KRIA_K26") (footprint "")
+    )
+    (path "/d84b180e-cefc-4f1c-881d-20439d41dcc4/db3ea8ee-f6f3-477c-b7ee-2ef4d5314545"
+      (reference "SOM?") (unit 2) (value "KRIA_K26") (footprint "")
+    )
+    (path "/d84b180e-cefc-4f1c-881d-20439d41dcc4/500020a1-800e-414a-bf75-daeb6df78e77"
+      (reference "SOM?") (unit 3) (value "KRIA_K26") (footprint "")
+    )
+    (path "/d84b180e-cefc-4f1c-881d-20439d41dcc4/584748c7-60f3-459a-b4c9-5214a88777cb"
+      (reference "SOM?") (unit 4) (value "KRIA_K26") (footprint "")
+    )
+    (path "/d84b180e-cefc-4f1c-881d-20439d41dcc4/44211a20-2bf0-42b0-aea4-75e2c7cc4ec7"
+      (reference "SOM?") (unit 5) (value "KRIA_K26") (footprint "")
+    )
+    (path "/d84b180e-cefc-4f1c-881d-20439d41dcc4/fd155a10-5310-47cd-8301-7182cc4964ec"
+      (reference "SOM?") (unit 6) (value "KRIA_K26") (footprint "")
+    )
+    (path "/d84b180e-cefc-4f1c-881d-20439d41dcc4/f2b1e58e-58e1-4c03-a85d-64b45e873bd8"
+      (reference "SOM?") (unit 7) (value "KRIA_K26") (footprint "")
+    )
+    (path "/d84b180e-cefc-4f1c-881d-20439d41dcc4/e6c2aaba-d39e-4fd4-a480-71e4211e7fcb"
+      (reference "SOM?") (unit 8) (value "KRIA_K26") (footprint "")
+    )
+  )
 )
