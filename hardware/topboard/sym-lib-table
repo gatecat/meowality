@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "meowality")(type "KiCad")(uri "${KIPRJMOD}/../lib/meowality.kicad_sym")(options "")(descr ""))
+  (lib (name "kria_k26")(type "KiCad")(uri "${KIPRJMOD}/../lib/kria_k26.kicad_sym")(options "")(descr ""))
+)
