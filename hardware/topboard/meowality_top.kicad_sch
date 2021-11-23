@@ -1038,6 +1038,12 @@
     (path "/81e0b26c-a55b-4fe4-a003-aef42f9d3686/36d445f9-924c-492a-8b57-1713800dcad3"
       (reference "#PWR0410") (unit 1) (value "+1V8PL") (footprint "")
     )
+    (path "/206e3f9e-b2a1-4a91-bb8c-edb422c7d9ba/2cbddc93-9748-4484-94c9-ca33d2642254"
+      (reference "#PWR?") (unit 1) (value "+3V3PS") (footprint "")
+    )
+    (path "/206e3f9e-b2a1-4a91-bb8c-edb422c7d9ba/5de84e67-6fca-44a4-8e65-f420155b0e9a"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/d84b180e-cefc-4f1c-881d-20439d41dcc4/76491be6-4d6c-46f5-addf-6a48546a2634"
       (reference "C1") (unit 1) (value "10µ") (footprint "")
     )
