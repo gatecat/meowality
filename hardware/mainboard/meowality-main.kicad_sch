@@ -399,6 +399,9 @@
     (path "/1fd619f4-b635-4feb-bd8e-d44522069ea8/6eebacbd-ab89-4d6b-beeb-d8c1928416c0"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
+    (path "/7f889e5b-76ba-461d-b827-e767df1bf000/6f3e34fa-0e36-4b59-98f9-880b2e4bdba2"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/8e131d9e-78b8-46c8-b84d-abc76d4d9d15/6f56f8db-c89c-410e-825d-35875aaa83c4"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -451,6 +454,9 @@
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/8e131d9e-78b8-46c8-b84d-abc76d4d9d15/830dec47-e269-4060-9daa-a24dae40f43f"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/7f889e5b-76ba-461d-b827-e767df1bf000/8380a9dd-1f95-4589-af49-9fa55a455b6b"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/a559f63f-b3a0-4b81-aa6a-605d4da47af6/848d27cc-2922-4ce0-9b3f-32cb6d4011bc"
@@ -789,6 +795,9 @@
     (path "/7f889e5b-76ba-461d-b827-e767df1bf000/e36d137e-f13b-429a-9328-5e7210c665f2"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/7f889e5b-76ba-461d-b827-e767df1bf000/e406609b-b815-4e90-b505-24cfb1307675"
+      (reference "#PWR?") (unit 1) (value "+1V8PS") (footprint "")
+    )
     (path "/1fd619f4-b635-4feb-bd8e-d44522069ea8/e4b66563-3d4c-46de-80c2-42bf54c83c4e"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
@@ -1098,8 +1107,17 @@
     (path "/1fd619f4-b635-4feb-bd8e-d44522069ea8/04d04c90-fda0-49ff-9f7a-765ba9070c31"
       (reference "D?") (unit 1) (value "LED_Small") (footprint "LED_SMD:LED_0603_1608Metric")
     )
+    (path "/7f889e5b-76ba-461d-b827-e767df1bf000/0990b417-dc83-4ae7-b31b-48b8d5889142"
+      (reference "D?") (unit 1) (value "PESD3V3L4UF") (footprint "Package_TO_SOT_SMD:SOT-886")
+    )
     (path "/1fd619f4-b635-4feb-bd8e-d44522069ea8/0f9cb311-5c1d-4b55-b85e-89931a535aaa"
       (reference "D?") (unit 1) (value "LED_Small") (footprint "LED_SMD:LED_0603_1608Metric")
+    )
+    (path "/7f889e5b-76ba-461d-b827-e767df1bf000/190baff4-4f15-4444-a78a-18857722c297"
+      (reference "D?") (unit 1) (value "PESD3V3L4UF") (footprint "Package_TO_SOT_SMD:SOT-886")
+    )
+    (path "/7f889e5b-76ba-461d-b827-e767df1bf000/28f05741-f039-4ebf-9db8-0089bae6c465"
+      (reference "D?") (unit 1) (value "PESD3V3L4UF") (footprint "Package_TO_SOT_SMD:SOT-886")
     )
     (path "/6a292bda-89e9-45db-8903-4a1a27a92ac2/39444f06-b9aa-4dcb-8a6d-b7e71e654a7e"
       (reference "D?") (unit 1) (value "D_Schottky_Small") (footprint "")
@@ -1110,8 +1128,23 @@
     (path "/1fd619f4-b635-4feb-bd8e-d44522069ea8/51581297-e7a7-4177-830f-fb9b3edec8c7"
       (reference "D?") (unit 1) (value "LED_Small") (footprint "LED_SMD:LED_0603_1608Metric")
     )
+    (path "/7f889e5b-76ba-461d-b827-e767df1bf000/5f4deb72-d2f5-4610-ab72-9b9e7c69c2fb"
+      (reference "D?") (unit 1) (value "PESD3V3L4UF") (footprint "Package_TO_SOT_SMD:SOT-886")
+    )
+    (path "/7f889e5b-76ba-461d-b827-e767df1bf000/66cf36dd-87a5-4f2c-bcb9-a56918dcba45"
+      (reference "D?") (unit 1) (value "PESD3V3L4UF") (footprint "Package_TO_SOT_SMD:SOT-886")
+    )
+    (path "/7f889e5b-76ba-461d-b827-e767df1bf000/7aefcbbd-ccc5-41ba-a3bf-703d5d5444de"
+      (reference "D?") (unit 1) (value "PESD3V3L4UF") (footprint "Package_TO_SOT_SMD:SOT-886")
+    )
     (path "/1fd619f4-b635-4feb-bd8e-d44522069ea8/a97470a6-07b5-4f79-b4dc-509dafe5a8b8"
       (reference "D?") (unit 1) (value "LED_Small") (footprint "LED_SMD:LED_0603_1608Metric")
+    )
+    (path "/7f889e5b-76ba-461d-b827-e767df1bf000/adfd0e76-a418-4191-858d-bc5e8658ed6a"
+      (reference "D?") (unit 1) (value "PESD3V3L4UF") (footprint "Package_TO_SOT_SMD:SOT-886")
+    )
+    (path "/7f889e5b-76ba-461d-b827-e767df1bf000/aedeb971-0db6-49d5-96de-2c53581d21b7"
+      (reference "D?") (unit 1) (value "PESD3V3L4UF") (footprint "Package_TO_SOT_SMD:SOT-886")
     )
     (path "/6a292bda-89e9-45db-8903-4a1a27a92ac2/af98ed1d-d0ce-40ae-a234-ef195864b74e"
       (reference "D?") (unit 1) (value "D_Schottky_Small") (footprint "")
@@ -1142,6 +1175,9 @@
     )
     (path "/7f889e5b-76ba-461d-b827-e767df1bf000/581d3688-6bd8-42f4-a297-f647cdba9adb"
       (reference "J?") (unit 1) (value "MINI_DP_SINK") (footprint "")
+    )
+    (path "/7f889e5b-76ba-461d-b827-e767df1bf000/cc75f506-6d89-4783-ae8d-f9d3a7535fe7"
+      (reference "J?") (unit 1) (value "DEBUG") (footprint "")
     )
     (path "/8e131d9e-78b8-46c8-b84d-abc76d4d9d15/23769963-eff1-419f-a0ac-c9c571eca55d"
       (reference "L?") (unit 1) (value "3.3µ") (footprint "meowality:BWVS00606045")
@@ -1457,6 +1493,9 @@
     )
     (path "/a559f63f-b3a0-4b81-aa6a-605d4da47af6/a7a8fd9d-9905-4464-82d7-9519a17e2e21"
       (reference "SOM?") (unit 8) (value "KRIA_K26") (footprint "meowality:KRIA_K26")
+    )
+    (path "/7f889e5b-76ba-461d-b827-e767df1bf000/8010dc96-0dc2-4075-94c0-5ae476d5b8c9"
+      (reference "SW?") (unit 1) (value "SW_SPDT") (footprint "")
     )
     (path "/a559f63f-b3a0-4b81-aa6a-605d4da47af6/a4210df8-3bee-440e-b4d4-a1044db3aad6"
       (reference "SW?") (unit 1) (value "SW_DIP_x04") (footprint "Button_Switch_SMD:SW_DIP_SPSTx04_Slide_Copal_CHS-04B_W7.62mm_P1.27mm")
