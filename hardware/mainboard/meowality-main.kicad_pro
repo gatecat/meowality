@@ -239,7 +239,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "meowality_front.kicad_pro",
+    "filename": "meowality-main.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -281,10 +281,8 @@
   "schematic": {
     "annotate_start_num": 0,
     "drawing": {
-      "default_bus_thickness": 12.0,
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
-      "default_wire_thickness": 6.0,
       "field_names": [],
       "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
@@ -320,8 +318,28 @@
   },
   "sheets": [
     [
-      "b33b82f1-67f4-468f-9382-ff5648d7fe7d",
+      "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
       ""
+    ],
+    [
+      "a559f63f-b3a0-4b81-aa6a-605d4da47af6",
+      "SOM"
+    ],
+    [
+      "8e131d9e-78b8-46c8-b84d-abc76d4d9d15",
+      "Power"
+    ],
+    [
+      "1fd619f4-b635-4feb-bd8e-d44522069ea8",
+      "Periph"
+    ],
+    [
+      "7f889e5b-76ba-461d-b827-e767df1bf000",
+      "IO"
+    ],
+    [
+      "6a292bda-89e9-45db-8903-4a1a27a92ac2",
+      "LCDs&Cams"
     ]
   ],
   "text_variables": {}

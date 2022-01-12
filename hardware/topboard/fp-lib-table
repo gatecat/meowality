@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name "meowality")(type "KiCad")(uri "${KIPRJMOD}/../lib/meowality.pretty")(options "")(descr ""))
-)
