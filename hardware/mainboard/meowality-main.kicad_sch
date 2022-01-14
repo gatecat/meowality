@@ -1102,10 +1102,10 @@
       (reference "C64") (unit 1) (value "1µ") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/8e131d9e-78b8-46c8-b84d-abc76d4d9d15/4f07e45b-e353-45ac-abbb-8b891d3708bb"
-      (reference "C65") (unit 1) (value "DNP") (footprint "")
+      (reference "C65") (unit 1) (value "DNP") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/8e131d9e-78b8-46c8-b84d-abc76d4d9d15/5ef993c9-45ff-4e17-a78d-b8e6ad07ee21"
-      (reference "C66") (unit 1) (value "1µ") (footprint "")
+      (reference "C66") (unit 1) (value "1µ") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/6a292bda-89e9-45db-8903-4a1a27a92ac2/9a34d834-3ccf-4d8b-b3fb-c8ca74339c66"
       (reference "C67") (unit 1) (value "10µ") (footprint "Capacitor_SMD:C_1206_3216Metric")
@@ -1159,10 +1159,10 @@
       (reference "D5") (unit 1) (value "LED_Small") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/1fd619f4-b635-4feb-bd8e-d44522069ea8/cb66857b-cb00-4620-bb31-2b88b81666a9"
-      (reference "D6") (unit 1) (value "EASV3015RGBA0") (footprint "")
+      (reference "D6") (unit 1) (value "EASV3015RGBA0") (footprint "meowality:EASV3015R")
     )
     (path "/1fd619f4-b635-4feb-bd8e-d44522069ea8/5e87cf86-3325-43c2-9635-b8472c6927de"
-      (reference "D7") (unit 1) (value "EASV3015RGBA0") (footprint "")
+      (reference "D7") (unit 1) (value "EASV3015RGBA0") (footprint "meowality:EASV3015R")
     )
     (path "/1fd619f4-b635-4feb-bd8e-d44522069ea8/163ac6e4-d6cf-4d93-ac9e-916f9dd1acb9"
       (reference "D8") (unit 1) (value "PESD3V3L4UF") (footprint "Package_TO_SOT_SMD:SOT-886")
@@ -1177,13 +1177,13 @@
       (reference "D8") (unit 4) (value "PESD3V3L4UF") (footprint "Package_TO_SOT_SMD:SOT-886")
     )
     (path "/1fd619f4-b635-4feb-bd8e-d44522069ea8/ab3ca60c-f8d0-49a3-9296-bc69a3e1c48a"
-      (reference "D9") (unit 1) (value "EASV3015RGBA0") (footprint "")
+      (reference "D9") (unit 1) (value "EASV3015RGBA0") (footprint "meowality:EASV3015R")
     )
     (path "/1fd619f4-b635-4feb-bd8e-d44522069ea8/3a3df8fc-5eb1-4641-8c20-a9056b0e679c"
-      (reference "D10") (unit 1) (value "EASV3015RGBA0") (footprint "")
+      (reference "D10") (unit 1) (value "EASV3015RGBA0") (footprint "meowality:EASV3015R")
     )
     (path "/1fd619f4-b635-4feb-bd8e-d44522069ea8/9d6817ea-3d7b-4ead-89ac-7415fca31343"
-      (reference "D11") (unit 1) (value "EASV3015RGBA0") (footprint "")
+      (reference "D11") (unit 1) (value "EASV3015RGBA0") (footprint "meowality:EASV3015R")
     )
     (path "/7f889e5b-76ba-461d-b827-e767df1bf000/aedeb971-0db6-49d5-96de-2c53581d21b7"
       (reference "D12") (unit 1) (value "PESD3V3L4UF") (footprint "Package_TO_SOT_SMD:SOT-886")
@@ -1240,7 +1240,7 @@
       (reference "J1") (unit 1) (value "Micro_SD_Card_Det") (footprint "Connector_Card:microSD_HC_Hirose_DM3AT-SF-PEJM5")
     )
     (path "/7f889e5b-76ba-461d-b827-e767df1bf000/581d3688-6bd8-42f4-a297-f647cdba9adb"
-      (reference "J2") (unit 1) (value "MINI_DP_SINK") (footprint "")
+      (reference "J2") (unit 1) (value "MINI_DP_SINK") (footprint "meowality:E9320-001-01")
     )
     (path "/7f889e5b-76ba-461d-b827-e767df1bf000/cc75f506-6d89-4783-ae8d-f9d3a7535fe7"
       (reference "J3") (unit 1) (value "DEBUG") (footprint "meowality:HARTING_10B1_JACK_AH")
@@ -1267,7 +1267,7 @@
       (reference "L6") (unit 1) (value "6.8µ") (footprint "Inductor_SMD:L_Taiyo-Yuden_NR-50xx")
     )
     (path "/6a292bda-89e9-45db-8903-4a1a27a92ac2/6585aa7f-1f44-4fc8-a941-406e51416ac5"
-      (reference "L7") (unit 1) (value "47µ") (footprint "")
+      (reference "L7") (unit 1) (value "22µ") (footprint "Inductor_SMD:L_Taiyo-Yuden_NR-50xx")
     )
     (path "/6a292bda-89e9-45db-8903-4a1a27a92ac2/40588394-eb22-46d3-b4e9-b6dd4ae1ab16"
       (reference "L8") (unit 1) (value "6.8µ") (footprint "Inductor_SMD:L_Taiyo-Yuden_NR-50xx")
@@ -1387,7 +1387,7 @@
       (reference "R27") (unit 1) (value "2.2k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/8e131d9e-78b8-46c8-b84d-abc76d4d9d15/5f969690-cedf-4b64-9ab1-aa1d62ac3e16"
-      (reference "R28") (unit 1) (value "2.2k") (footprint "")
+      (reference "R28") (unit 1) (value "2.2k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/1fd619f4-b635-4feb-bd8e-d44522069ea8/300d4ff7-02fc-4da0-aed0-105ae28ee9fd"
       (reference "R29") (unit 1) (value "2.2k") (footprint "Resistor_SMD:R_0402_1005Metric")
@@ -1675,10 +1675,10 @@
       (reference "U9") (unit 1) (value "ICM-20789") (footprint "Sensor_Motion:InvenSense_QFN-24_4x4mm_P0.5mm")
     )
     (path "/1fd619f4-b635-4feb-bd8e-d44522069ea8/223ab56f-8d4e-46ee-8557-81dc11a6fbc8"
-      (reference "U10") (unit 1) (value "MMC5883MA") (footprint "Package_LGA:LGA-16_3x3mm_P0.5mm")
+      (reference "U10") (unit 1) (value "MMC5983MA") (footprint "Package_LGA:LGA-16_3x3mm_P0.5mm")
     )
     (path "/1fd619f4-b635-4feb-bd8e-d44522069ea8/e2167b24-c6b1-4d03-a1fe-d9f9193c4d35"
-      (reference "U11") (unit 1) (value "Si52112-B") (footprint "")
+      (reference "U11") (unit 1) (value "Si52112-B") (footprint "meowality:TDFN10_3x3mm_p0.5mm")
     )
     (path "/7f889e5b-76ba-461d-b827-e767df1bf000/cbf4ae43-1eb4-43bc-a9f5-28d675dea6d0"
       (reference "U12") (unit 1) (value "TPD4E02B04DQA") (footprint "Package_SON:USON-10_2.5x1.0mm_P0.5mm")
