@@ -1,23 +1,18 @@
-# Meowality - CrossLink NX mixed reality
-
-(early WIP - outline ideas)
-
-Per eye:
- - H381DLN01.0 or equivalent 1080x1200x90fps AMOLED
- - iMX477 camera using the 4-lane 22-pin Pi connector (should be 1080p120+ capable)
- - LIFCL-40-9BG400C FPGA
- - ICM-20948 IMU
- - QSPI boot flash
- - 2 user buttons
- - 6 RGB LEDs and connector for RGB cat ear extension
- - PMOD for debug/extension
-
-M.2 slot for WiFi module using CrossLink NX for hypothetical wireless VR with minimal stack (raw packets and minimal DPCM type compression only).
-
-Debug/IO board at side:
- - Allwinner F1C200S (ARM9, embedded 64MB DDR, basic video encode/decode)
- - USB type-C with USB2 and CVBS video in over SBU. USB PD support for max power.
- - microSD card for bitstreams/firmware
- - SDIO WiFi module for untethered bitstream loading
- - LVDS video interface into left FPGA board (720p max, intended for overlay)
- - RTOS/minimal Linux??
+# Meowality - Kria SoM mixed reality
+ 
+ - Kria K26 SoM with UltraScale+ FPGA
+     + 4x 1.5GHz Cortex A53
+     + 4GB PS DDR4
+     + 256k UltraScale+ logic cells;
+     + hard H.264/H.265 IP
+ - 2x LPM035M407B 1440x1600 90fps LCDs (2x4-lane MIPI DSI)
+ - 2x 4-lane Pi cam connector intended for iMX477 (4k 60fps+)
+ - 4-lane mini-Displayport connector on fabric GTH, up to HBR3/DP1.4
+ - 2-lane M.2 connector for WiFi module on PS GTR
+ - USB type-C connector with USB 2 PHY on PS MIO and USB 3 on PS GTR
+ - USB PD power
+ - ICM-20789 IMU
+ - MMC5983 magnetometer
+ - microSD card
+ - 5x RGB LED
+ - JTAG & UART on Harting 10B-1 connector
