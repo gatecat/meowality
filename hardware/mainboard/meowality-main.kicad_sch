@@ -1877,10 +1877,10 @@
       (reference "R51") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/7f889e5b-76ba-461d-b827-e767df1bf000/b2d6aa86-ee87-4302-bac8-7c0617c73cf7"
-      (reference "R52") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R52") (unit 1) (value "DNP") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/7f889e5b-76ba-461d-b827-e767df1bf000/2dcada95-74a0-4c7f-ae3e-53445f414401"
-      (reference "R53") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R53") (unit 1) (value "DNP") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/7f889e5b-76ba-461d-b827-e767df1bf000/c93875f6-638b-4006-9891-2c90f78506f6"
       (reference "R54") (unit 1) (value "2.2k") (footprint "Resistor_SMD:R_0402_1005Metric")
