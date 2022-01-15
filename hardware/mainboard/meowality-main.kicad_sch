@@ -194,7 +194,7 @@
   (symbol (lib_id "power:GND") (at 198.12 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 29964473-8088-4ef2-86ea-4668a18d61fb)
-    (property "Reference" "#PWR?" (id 0) (at 198.12 104.14 0)
+    (property "Reference" "#PWR0300" (id 0) (at 198.12 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 198.12 102.87 0))
@@ -210,7 +210,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 152.4 90.17 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 84ae9301-5488-428b-9d51-06c46b2f0897)
-    (property "Reference" "H?" (id 0) (at 154.94 87.6299 0)
+    (property "Reference" "H1" (id 0) (at 154.94 87.6299 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Value" "MountingHole_Pad" (id 1) (at 154.94 88.8999 0)
@@ -228,7 +228,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 193.04 90.17 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9a9fcb89-1441-4dc8-8161-d4c2ca88b33e)
-    (property "Reference" "H?" (id 0) (at 195.58 87.6299 0)
+    (property "Reference" "H9" (id 0) (at 195.58 87.6299 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Value" "MountingHole_Pad" (id 1) (at 195.58 88.8999 0)
@@ -246,7 +246,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 162.56 90.17 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a070b648-0a85-4170-8a91-599450342e60)
-    (property "Reference" "H?" (id 0) (at 165.1 87.6299 0)
+    (property "Reference" "H3" (id 0) (at 165.1 87.6299 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Value" "MountingHole_Pad" (id 1) (at 165.1 88.8999 0)
@@ -264,7 +264,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 172.72 90.17 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a34472c6-e5af-4466-bd8c-00051220b9a1)
-    (property "Reference" "H?" (id 0) (at 175.26 87.6299 0)
+    (property "Reference" "H5" (id 0) (at 175.26 87.6299 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Value" "MountingHole_Pad" (id 1) (at 175.26 88.8999 0)
@@ -282,7 +282,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 157.48 90.17 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a9b15bc8-d58f-4dce-8008-aeed89e9068b)
-    (property "Reference" "H?" (id 0) (at 160.02 87.6299 0)
+    (property "Reference" "H2" (id 0) (at 160.02 87.6299 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Value" "MountingHole_Pad" (id 1) (at 160.02 88.8999 0)
@@ -300,7 +300,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 177.8 90.17 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ba6ddcc1-2647-425e-ab4b-d4ffcf66f14b)
-    (property "Reference" "H?" (id 0) (at 180.34 87.6299 0)
+    (property "Reference" "H6" (id 0) (at 180.34 87.6299 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Value" "MountingHole_Pad" (id 1) (at 180.34 88.8999 0)
@@ -318,7 +318,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 198.12 90.17 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d9faca49-5a69-43b7-ae75-a11a811c721d)
-    (property "Reference" "H?" (id 0) (at 200.66 87.6299 0)
+    (property "Reference" "H10" (id 0) (at 200.66 87.6299 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Value" "MountingHole_Pad" (id 1) (at 200.66 88.8999 0)
@@ -336,7 +336,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 187.96 90.17 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e57d0bad-e8df-4b6c-aa3e-bc3f8fd9b788)
-    (property "Reference" "H?" (id 0) (at 190.5 87.6299 0)
+    (property "Reference" "H8" (id 0) (at 190.5 87.6299 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Value" "MountingHole_Pad" (id 1) (at 190.5 88.8999 0)
@@ -354,7 +354,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 167.64 90.17 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e83ea659-2f37-4a3f-a914-2fd0ea472ff3)
-    (property "Reference" "H?" (id 0) (at 170.18 87.6299 0)
+    (property "Reference" "H4" (id 0) (at 170.18 87.6299 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Value" "MountingHole_Pad" (id 1) (at 170.18 88.8999 0)
@@ -372,7 +372,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 182.88 90.17 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid fc07208b-6f96-45bd-97dc-c33438e49527)
-    (property "Reference" "H?" (id 0) (at 185.42 87.6299 0)
+    (property "Reference" "H7" (id 0) (at 185.42 87.6299 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Value" "MountingHole_Pad" (id 1) (at 185.42 88.8999 0)
@@ -1132,6 +1132,9 @@
     (path "/6a292bda-89e9-45db-8903-4a1a27a92ac2/40a7899d-fd1e-4097-a995-bfdb600e12ea"
       (reference "#PWR0299") (unit 1) (value "+3V3PL") (footprint "")
     )
+    (path "/29964473-8088-4ef2-86ea-4668a18d61fb"
+      (reference "#PWR0300") (unit 1) (value "GND") (footprint "")
+    )
     (path "/1fd619f4-b635-4feb-bd8e-d44522069ea8/6d520754-68d8-4942-8352-d8883ee61a70"
       (reference "#PWR0303") (unit 1) (value "GND") (footprint "")
     )
@@ -1290,9 +1293,6 @@
     )
     (path "/7f889e5b-76ba-461d-b827-e767df1bf000/44b725cd-c54e-4568-843e-d2ad54e8638c"
       (reference "#PWR0367") (unit 1) (value "+3V3PS") (footprint "")
-    )
-    (path "/29964473-8088-4ef2-86ea-4668a18d61fb"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/a559f63f-b3a0-4b81-aa6a-605d4da47af6/ec041bff-8a9c-4cb6-b71e-875f2b8c18d1"
       (reference "C1") (unit 1) (value "10µ") (footprint "Capacitor_SMD:C_1206_3216Metric")
@@ -1628,34 +1628,34 @@
       (reference "FB2") (unit 1) (value "Ferrite_Bead_Small") (footprint "Inductor_SMD:L_0603_1608Metric")
     )
     (path "/84ae9301-5488-428b-9d51-06c46b2f0897"
-      (reference "H?") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via")
-    )
-    (path "/9a9fcb89-1441-4dc8-8161-d4c2ca88b33e"
-      (reference "H?") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via")
-    )
-    (path "/a070b648-0a85-4170-8a91-599450342e60"
-      (reference "H?") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via")
-    )
-    (path "/a34472c6-e5af-4466-bd8c-00051220b9a1"
-      (reference "H?") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via")
+      (reference "H1") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via")
     )
     (path "/a9b15bc8-d58f-4dce-8008-aeed89e9068b"
-      (reference "H?") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via")
+      (reference "H2") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via")
     )
-    (path "/ba6ddcc1-2647-425e-ab4b-d4ffcf66f14b"
-      (reference "H?") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via")
-    )
-    (path "/d9faca49-5a69-43b7-ae75-a11a811c721d"
-      (reference "H?") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via")
-    )
-    (path "/e57d0bad-e8df-4b6c-aa3e-bc3f8fd9b788"
-      (reference "H?") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via")
+    (path "/a070b648-0a85-4170-8a91-599450342e60"
+      (reference "H3") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via")
     )
     (path "/e83ea659-2f37-4a3f-a914-2fd0ea472ff3"
-      (reference "H?") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via")
+      (reference "H4") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via")
+    )
+    (path "/a34472c6-e5af-4466-bd8c-00051220b9a1"
+      (reference "H5") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via")
+    )
+    (path "/ba6ddcc1-2647-425e-ab4b-d4ffcf66f14b"
+      (reference "H6") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via")
     )
     (path "/fc07208b-6f96-45bd-97dc-c33438e49527"
-      (reference "H?") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via")
+      (reference "H7") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via")
+    )
+    (path "/e57d0bad-e8df-4b6c-aa3e-bc3f8fd9b788"
+      (reference "H8") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via")
+    )
+    (path "/9a9fcb89-1441-4dc8-8161-d4c2ca88b33e"
+      (reference "H9") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via")
+    )
+    (path "/d9faca49-5a69-43b7-ae75-a11a811c721d"
+      (reference "H10") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via")
     )
     (path "/1fd619f4-b635-4feb-bd8e-d44522069ea8/22ac7ace-2c34-4580-9da7-3b6515315310"
       (reference "J1") (unit 1) (value "Micro_SD_Card_Det") (footprint "Connector_Card:microSD_HC_Hirose_DM3AT-SF-PEJM5")
