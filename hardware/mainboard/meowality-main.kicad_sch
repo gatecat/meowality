@@ -1597,6 +1597,12 @@
     (path "/7f889e5b-76ba-461d-b827-e767df1bf000/eb5fb7e8-6da0-47e9-9a51-2da2efbf615a"
       (reference "D13") (unit 3) (value "PESD3V3L4UF") (footprint "Package_TO_SOT_SMD:SOT-886")
     )
+    (path "/8e131d9e-78b8-46c8-b84d-abc76d4d9d15/efdd4642-3ef3-4657-a386-a02f2f4d240a"
+      (reference "D14") (unit 1) (value "SMDJ22CA") (footprint "Diode_SMD:D_SMC")
+    )
+    (path "/8e131d9e-78b8-46c8-b84d-abc76d4d9d15/6daf8cce-acdd-4ff5-9aef-6e5dc8973c84"
+      (reference "D15") (unit 1) (value "1.5SMC6.8A") (footprint "Diode_SMD:D_SMC")
+    )
     (path "/7f889e5b-76ba-461d-b827-e767df1bf000/5f4deb72-d2f5-4610-ab72-9b9e7c69c2fb"
       (reference "D16") (unit 1) (value "PESD3V3L4UF") (footprint "Package_TO_SOT_SMD:SOT-886")
     )
