@@ -535,6 +535,9 @@
     (path "/6a292bda-89e9-45db-8903-4a1a27a92ac2/4724f5e0-63bd-4ba5-b990-7e717fd40e30"
       (reference "#PWR014") (unit 1) (value "+3V3PL") (footprint "")
     )
+    (path "/6a292bda-89e9-45db-8903-4a1a27a92ac2/20489445-dc16-496b-bd47-3eaa4d7cb9bf"
+      (reference "#PWR015") (unit 1) (value "GND") (footprint "")
+    )
     (path "/a559f63f-b3a0-4b81-aa6a-605d4da47af6/8f6b970f-4d08-42ad-b516-623de01a19b5"
       (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
     )
@@ -1306,7 +1309,7 @@
     (path "/a559f63f-b3a0-4b81-aa6a-605d4da47af6/b59e27bb-244d-4f1c-a3de-44fff5adb249"
       (reference "C4") (unit 1) (value "1µ") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
-    (path "/a559f63f-b3a0-4b81-aa6a-605d4da47af6/92e6ddc6-b1d5-4cc8-8b3b-a3781c3a9669"
+    (path "/a559f63f-b3a0-4b81-aa6a-605d4da47af6/f25cdced-f62c-4467-8955-1321d3f27595"
       (reference "C5") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/a559f63f-b3a0-4b81-aa6a-605d4da47af6/ab513ff5-ad36-455f-b61b-da54977cf002"
@@ -1674,6 +1677,12 @@
     )
     (path "/7f889e5b-76ba-461d-b827-e767df1bf000/4040192d-c39f-4bdb-b4f1-4c310967bb06"
       (reference "J4") (unit 1) (value "USB_C_Receptacle") (footprint "Connector_USB:USB_C_Receptacle_Amphenol_12401610E4-2A")
+    )
+    (path "/6a292bda-89e9-45db-8903-4a1a27a92ac2/92e6ddc6-b1d5-4cc8-8b3b-a3781c3a9669"
+      (reference "J5") (unit 1) (value "Conn_01x02") (footprint "meowality:TE-292227-2")
+    )
+    (path "/6a292bda-89e9-45db-8903-4a1a27a92ac2/c3674a9c-9627-42e6-a85e-464d8e5f7815"
+      (reference "J6") (unit 1) (value "Conn_01x02") (footprint "meowality:TE-292227-2")
     )
     (path "/8e131d9e-78b8-46c8-b84d-abc76d4d9d15/cd98dacf-ea86-4f51-9ece-4e08cfeef2f9"
       (reference "L1") (unit 1) (value "3.3µ") (footprint "meowality:BWVS00606045")
