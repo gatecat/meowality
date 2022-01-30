@@ -1670,7 +1670,7 @@
       (reference "J1") (unit 1) (value "Micro_SD_Card_Det") (footprint "Connector_Card:microSD_HC_Hirose_DM3AT-SF-PEJM5")
     )
     (path "/7f889e5b-76ba-461d-b827-e767df1bf000/581d3688-6bd8-42f4-a297-f647cdba9adb"
-      (reference "J2") (unit 1) (value "MINI_DP_SINK") (footprint "meowality:E9320-001-01")
+      (reference "J2") (unit 1) (value "MINI_DP_SINK") (footprint "meowality:2129320-3")
     )
     (path "/7f889e5b-76ba-461d-b827-e767df1bf000/cc75f506-6d89-4783-ae8d-f9d3a7535fe7"
       (reference "J3") (unit 1) (value "DEBUG") (footprint "meowality:HARTING_10B1_JACK_AH")

@@ -4198,7 +4198,7 @@
     (uuid 581d3688-6bd8-42f4-a297-f647cdba9adb)
     (property "Reference" "J2" (id 0) (at 45.6819 121.8143 0))
     (property "Value" "MINI_DP_SINK" (id 1) (at 45.6819 124.5894 0))
-    (property "Footprint" "meowality:E9320-001-01" (id 2) (at 43.18 177.8 0)
+    (property "Footprint" "meowality:2129320-3" (id 2) (at 43.18 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 43.18 177.8 0)
