@@ -22,7 +22,7 @@ def main():
     dia_pad = 0.46 # TODO
 
     # Relative to pad A1
-    dx_calign = (-0.48, -1.75)
+    dx_calign = (-1.75, -0.48)
     dy_calign = (1.4, -38.87)
     dia_calign = 0.9
     dx_conn_outline = -4.25
