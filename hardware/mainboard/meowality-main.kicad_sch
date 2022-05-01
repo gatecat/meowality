@@ -2076,6 +2076,9 @@
     (path "/6a292bda-89e9-45db-8903-4a1a27a92ac2/9aa07ccc-9cbd-4212-a473-d2acbf9f46e3"
       (reference "R100") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
+    (path "/6a292bda-89e9-45db-8903-4a1a27a92ac2/bf44086c-3801-438f-997b-1f2b44931c19"
+      (reference "R101") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
     (path "/a559f63f-b3a0-4b81-aa6a-605d4da47af6/aea18539-24b7-4641-88c3-68a42bfdc31a"
       (reference "SOM1") (unit 1) (value "KRIA_K26") (footprint "meowality:KRIA_K26")
     )
